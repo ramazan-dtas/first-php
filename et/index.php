@@ -12,7 +12,6 @@
 body {
 margin: 0;
 padding: 0;
-/*background-size: cover;*/
 background: linear-gradient(to left, #8942a8, #ba382f);
 }
 
